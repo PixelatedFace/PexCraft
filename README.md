@@ -1,6 +1,6 @@
 # PexCraft
 
-A modpack all about pexing and retardation
+A Modpack all about Pexing and retardation.
 
 ## Table of Contents
 
@@ -13,20 +13,20 @@ A modpack all about pexing and retardation
 
 ## Introduction
 
-Every wanted to murder your enemies through pexological means? This is the modpack for you and your friends that might disappear when you take the meds! 
+Every wanted to murder your enemies through Pexological means? This is the Modpack for you and your friends that might disappear when you take the meds! 
 
 ## Features
 
-there are literally no features rn
+There are literally no features rn.
 
-- nah
-- id
-- win
-- only in oslo
+- Nah
+- I'd 
+- Win
+- Only in Oslo
 
 ## Installation
 
-what installation
+What installation.
 
 ```bash
 # Example installation commands
