@@ -22,6 +22,7 @@ there are literally no features rn
 - nah
 - id
 - win
+- only in oslo
 
 ## Installation
 
