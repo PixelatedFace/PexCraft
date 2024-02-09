@@ -1,6 +1,6 @@
 # PexCraft Mod
 
-![PexCraft Logo](/images/pexcraft_logo.png)
+![PexCraft Logo](pexcraft_logo.png)
 
 ## Overview
 
@@ -50,12 +50,12 @@ Contributions to PexCraft are welcome! If you have suggestions, bug reports, or 
 
 ## License
 
-what license
+what license 
 
 ## Acknowledgements
 
 - Thanks to the Minecraft Forge team for providing a robust modding framework.
-- Special thanks to me
+- Special thanks to me and me! kys!!
 
 ## Contact
 
