@@ -1,36 +1,61 @@
-# PexCraft
+# PexCraft Mod
 
-A modpack all about pexing and retardation
+![PexCraft Logo](/images/pexcraft_logo.png)
 
-## Table of Contents
+## Overview
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-Every wanted to murder your enemies through pexological means? This is the modpack for you and your friends that might disappear when you take the meds! 
+PexCraft is a Minecraft mod that introduces three new materials: PEX (Potassium Ethyl Xanthate), REX (Rubidium Ethyl Xanthate), and LEX (Lithium Ethyl Xanthate). These materials are strategically designed to be used throughout various stages of the game, with LEX serving as the early-game resource, PEX for mid-game progression, and REX as the main endgame material.
 
 ## Features
 
-there are literally no features rn
+- **LEX (Lithium Ethyl Xanthate):**
+  - Early-game material with essential uses.
+  - Crafting recipes for basic tools, initial armor sets and gun schematics.
+  - Extremely fragile.
+    
+- **PEX (Potassium Ethyl Xanthate):**
+  - Mid-game material with versatile applications.
+  - Crafting recipes for various tools, guns, and machines.
+  - Intermediate-level gun and armor modifiers.
+    
 
-- nah
-- id
-- win
-- only in oslo
+
+- **REX (Rubidium Ethyl Xanthate):**
+  - Main endgame material, rare and powerful.
+  - Crafting recipes for top-tier guns and explosives, armor sets, and advanced machinery.
+  - High-level modifiers and exclusive endgame features.
 
 ## Installation
 
-what installation
+1. **Download and Install Minecraft Forge:**
+   - Visit [Minecraft Forge](https://files.minecraftforge.net/) to download the latest recommended version.
+   - Install Forge by following the provided instructions.
 
-```bash
-# Example installation commands
-git clone https://github.com/your-username/your-project.git
-cd your-project
-npm install
-ignore this for now
+2. **Download PexCraft Mod:**
+   - Navigate to the [Releases](https://github.com/kuudraloremaster/pexcraft/releases) section of this repository.
+   - Download the latest release of the mod.
+
+3. **Install PexCraft Mod:**
+   - Place the downloaded mod file into the "mods" folder of your Minecraft installation.
+
+4. **Launch Minecraft:**
+   - Run the Minecraft Launcher.
+   - Make sure to choose the correct profile.
+   - Enjoy the new pexological experience!
+
+## Contributing
+
+Contributions to PexCraft are welcome! If you have suggestions, bug reports, or would like to contribute code, please open an issue or submit a pull request.
+
+## License
+
+what license
+
+## Acknowledgements
+
+- Thanks to the Minecraft Forge team for providing a robust modding framework.
+- Special thanks to me
+
+## Contact
+
+go die
