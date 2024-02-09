@@ -8,4 +8,6 @@ public class ItemInit {
     public static final List<Item> ITEMS = new ArrayList<Item>();
 
     public static final Item PEX_INGOT = new ItemBase("pex_ingot");
+    public static final Item LEX_INGOT = new ItemBase("lex_ingot");
+    public static final Item REX_INGOT = new ItemBase("rex_ingot"); 
 }
