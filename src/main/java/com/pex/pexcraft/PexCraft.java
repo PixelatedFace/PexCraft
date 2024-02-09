@@ -7,12 +7,12 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = ExampleMod.MODID, name = ExampleMod.NAME, version = ExampleMod.VERSION)
+@Mod(modid = pexcraft.MODID, name = PexCraft.NAME, version = 0.1.VERSION)
 public class ExampleMod
 {
-    public static final String MODID = "examplemod";
-    public static final String NAME = "Example Mod";
-    public static final String VERSION = "1.0";
+    public static final String MODID = "pexcraft";
+    public static final String NAME = "PexCraft";
+    public static final String VERSION = "0.1";
 
     private static Logger logger;
 
@@ -26,6 +26,6 @@ public class ExampleMod
     public void init(FMLInitializationEvent event)
     {
         // some example code
-        logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
+        logger.info("PEX BLOCK >> {}", Blocks.PEX.getRegistryName());
     }
 }
