@@ -21,9 +21,10 @@ PexCraft is a Minecraft mod that introduces three new materials: PEX (Potassium 
 
 
 - **REX (Rubidium Ethyl Xanthate):**
-  - Main endgame material, rare and powerful.
+  - Main endgame material.
   - Crafting recipes for top-tier guns and explosives, armor sets, and advanced machinery.
   - High-level modifiers and exclusive endgame features.
+  - Insanely durable.
 
 ## Installation
 
