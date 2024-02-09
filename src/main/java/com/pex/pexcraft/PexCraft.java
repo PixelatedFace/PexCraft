@@ -1,5 +1,4 @@
-package com.example.examplemod;
-
+// ???
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -8,7 +7,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
 @Mod(modid = pexcraft.MODID, name = PexCraft.NAME, version = 0.1.VERSION)
-public class ExampleMod
+public class Pexcraft
 {
     public static final String MODID = "pexcraft";
     public static final String NAME = "PexCraft";
