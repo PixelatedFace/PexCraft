@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "pexcraft",
+  "name": "PexCraft",
+  "description": "PexCraft is a Minecraft mod that introduces three new materials: PEX (Potassium Ethyl Xanthate), REX (Rubidium Ethyl Xanthate), and LEX (Lithium Ethyl Xanthate). These materials are strategically designed to be used throughout various stages of the game, with LEX serving as the early-game resource, PEX for mid-game progression, and REX as the main endgame material.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["KuudraLoremaster", "Pixelated_Face", "UwUDwagonL"],
+  "credits": "PJ",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
